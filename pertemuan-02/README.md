@@ -7,9 +7,9 @@
  1)  
 =======
 # pertemuan-02
-NIM : 2522500065
-NAMA : TIARA ARFIARANI
+Nim: 2522500065
+Nama: tiara arfiarani
 
-HARI INI, SENIN 06.OKT.2025 KAMI BELAJAR
+Hari ini,kamis 09.okt.2025 kami belajar
 1) 
 >>>>>>> a0f9b0ca8654d0425fe896f27cd92fd26c730426
