@@ -1,5 +1,6 @@
-Nim: 2522500065<br>
-Nama: tiara arfiarani<br>
+# pertemuan-02
+Nim: 2522500065
+Nama: tiara arfiarani
 
-Hari ini,kamis 09.okt.2025 kami belajar<br>
+Hari ini, kamis 02.okt.2025
 1) 
