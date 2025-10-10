@@ -1,6 +1,6 @@
-# pertemuan-02
+# Pertemuan-02
 Nim: 2522500065
-Nama: tiara arfiarani
+Nama: tiaraa arfiarani
 
-Hari ini, kamis 02.okt.2025 kami belajar
+Hari ini, kamis 02.okt.2025 kami belajar:
 1) 
